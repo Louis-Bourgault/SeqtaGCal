@@ -1,4 +1,4 @@
-import SeqtaGCal.get_classes as get_classes
+import get_classes
 from dotenv import load_dotenv
 import os
 import datetime
